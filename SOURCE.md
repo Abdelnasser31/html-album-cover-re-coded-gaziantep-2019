@@ -10,7 +10,7 @@ HAPPY
 
 | &nbsp;&nbsp; FROM DESPICABLE ME 2 &nbsp;&nbsp; |
 
-https://learn.co/tracks/re-coded-front-end-web-development/html-and-css-in-depth/html-fundamentals/html-album-cover#HAPPY
+HAPPY
 
 WRITTEN BY PHARRELL WILLIAMS
 
